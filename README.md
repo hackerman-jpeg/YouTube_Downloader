@@ -60,6 +60,8 @@ You'll be prompted with the following options:
 If you choose to download videos or convert videos to MP3, you'll be asked to enter a URL or the path to a file containing multiple URLs:
 
 `Enter a URL or the path to a file containing multiple URLs:`
-Enter the URL of the YouTube video you want to download or the path to a file with multiple YouTube video URLs.
+Enter the URL of the YouTube video you want to download or the path to a file with multiple YouTube video URLs. 
+
+>  The URL needs to be the full URL shown in web address bar, usually has `watch=` near the end. 
 
 Watch the script work its magic. 🎉 Your video(s) will be downloaded or converted to MP3 based on your choice.
