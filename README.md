@@ -44,13 +44,17 @@ Navigate to the directory containing the script:
 ```
 cd YouTube-Video-Downloader
 ```
+
 Run the script using Python:
+
 ```
-python youtube_video_downloader.py
+python3 youtube_video_downloader.py
 ```
+
 You'll be prompted with the following options:
 
 `Enter '1' to download videos, '2' to convert videos to MP3, or 'q' to quit:`
+
 `Enter 1, 2, or q depending on what you want to do.`
 
 If you choose to download videos or convert videos to MP3, you'll be asked to enter a URL or the path to a file containing multiple URLs:
