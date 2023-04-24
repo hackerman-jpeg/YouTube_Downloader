@@ -23,7 +23,7 @@ Next, you will need to install a couple of dependencies:
 
 `ffmpeg`: A versatile tool for handling video, audio, and other multimedia files and streams (install via brew for Mac).
 
-You can install yt-dlp and youtube-dl using pip:
+You can install yt-dlp and [youtube-dl](https://github.com/ytdl-org/youtube-dl) using pip:
 
 ```
 pip install yt-dlp youtube_dl
