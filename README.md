@@ -38,34 +38,33 @@ brew install ffmpeg
 
 Getting started is straightforward:
 
-Clone this repository or download the youtube_video_downloader.py script.
+Clone this repository or download the `.py` script.
 
 ```
-git clone https://github.com/your_username/YouTube-Video-Downloader.git
-```
-Navigate to the directory containing the script:
+git clone https://github.com/hackerman-jpeg/YouTube_Downloader.git
 
-```
-cd YouTube-Video-Downloader
 ```
 
 Run the script using Python:
 
 ```
-python3 youtube_video_downloader.py
+python3 YouTube_Downloader.py
 ```
 
 You'll be prompted with the following options:
 
 `Enter '1' to download videos, '2' to convert videos to MP3, or 'q' to quit:`
 
-`Enter 1, 2, or q depending on what you want to do.`
+Enter 1, 2, or q depending on what you want to do.
+
 
 If you choose to download videos or convert videos to MP3, you'll be asked to enter a URL or the path to a file containing multiple URLs:
 
 `Enter a URL or the path to a file containing multiple URLs:`
+
 Enter the URL of the YouTube video you want to download or the path to a file with multiple YouTube video URLs. 
 
 >  The URL needs to be the full URL shown in web address bar, usually has `watch=` near the end. 
+
 
 Watch the script work its magic. 🎉 Your video(s) will be downloaded or converted to MP3 based on your choice.
