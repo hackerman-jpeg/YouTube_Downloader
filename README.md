@@ -1,6 +1,9 @@
 # YouTube Video Downloader
 
-I wrote this tool to simplify the process of downloading and converting YouTube videos. Feel free to use it and even contribute if you find it helpful. It can download videos for watching later, or download videos and convert as MP3. 
+I wrote this tool to simplify the process of downloading and converting YouTube videos. It uses `yt-dlp` to download the video as a webm file, then ffmpeg to convert to either an `mp4` or `mkv`, or `mp3` if using option 2. Feel free to use it and even contribute if you find it helpful. It can download videos for watching later, or download videos and convert as MP3. 
+
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/41294610/233874563-947c3a0b-c54c-4b62-84fc-1413641317c5.png">
+
 
 ## Features
 
