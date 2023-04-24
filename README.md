@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# Python Video Downloader
 
 I wrote this tool to simplify the process of downloading and converting YouTube videos. It uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download the video as a webm file, then ffmpeg to convert to either an `mp4` or `mkv`, or `mp3` if using option 2. Feel free to use it and even contribute if you find it helpful. It can download videos for watching later, or download videos and convert as MP3. 
 
@@ -62,7 +62,9 @@ If you choose to download videos or convert videos to MP3, you'll be asked to en
 
 `Enter a URL or the path to a file containing multiple URLs:`
 
-Enter the URL of the YouTube video you want to download or the path to a file with multiple YouTube video URLs. 
+Enter the URL of the YouTube video you want to download or the path to a file with multiple YouTube video URLs. You can download entire playlists as well, as long as you navigate to the player that has the playlist on the right (usually by clicking a video in a playlist), and then copying the URL in the search bar. Generally a playlist URL from YouTube might look like this: 
+
+https://www.youtube.com/watch?v=uJt4dOKmaQY&`list=PLDB42220DEE96FD9`
 
 >  The URL needs to be the full URL shown in web address bar, usually has `watch=` near the end. 
 
