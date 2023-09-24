@@ -66,7 +66,7 @@ Enter the URL of the YouTube video you want to download or the path to a file wi
 
 https://www.youtube.com/watch?v=uJt4dOKmaQY&`list=PLDB42220DEE96FD9`
 
->  The URL needs to be the full URL shown in web address bar, usually has `watch=` near the end. 
+>  The URL might need to be the full URL shown in web address bar, usually has `watch=` near the end. 
 
 
 Watch the script work its magic. 🎉 Your video(s) will be downloaded or converted to MP3 based on your choice.
